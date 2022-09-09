@@ -1,4 +1,4 @@
-lá, sou Marcus Vinicius
+Olá, sou Marcus Vinicius
 
 - 🔭 Pretendo trabalhar com Back-End
 - 🌱 Estudando React e Java
